@@ -1,0 +1,23 @@
+.light {
+  .cmp-teaser {}
+  .cmp-teaser__image {}
+  .cmp-teaser__content {
+    background-color: #FFFFFF;
+  }
+  .cmp-teaser__pretitle {
+    color: $grey3;
+  }
+  .cmp-teaser__title {
+    color: $text;
+  }
+  .cmp-teaser__title-link {
+    color: $text;
+  }
+  .cmp-teaser__description {
+    color: $text;
+  }
+  .cmp-teaser__action-container {}
+  .cmp-teaser__action-link {
+    color: $text;
+  }
+}
