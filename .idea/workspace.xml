@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/image/_image_caption.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/image/_image_standard.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_dark.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_light.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_light.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/title/_title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/title/_title_styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title_styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
       <updated>1612831075304</updated>
       <workItem from="1612831076664" duration="1701000" />
       <workItem from="1612893473869" duration="18145000" />
-      <workItem from="1612948754299" duration="3556000" />
+      <workItem from="1612948754299" duration="8445000" />
     </task>
     <servers />
   </component>
@@ -62,10 +65,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612916542397">
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612988689122">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612916542397" />
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612988689122" />
     <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1612831326589">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
