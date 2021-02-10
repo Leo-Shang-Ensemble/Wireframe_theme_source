@@ -4,6 +4,10 @@
   }
   .cmp-teaser__image {
     flex: 3;
+    & img {
+      height: 22em;
+      object-fit: cover;
+    }
   }
   .cmp-teaser__content {
     flex: 2;

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/container/_container_content.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/container/_container_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/container/_container_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/title/_title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       <updated>1612831075304</updated>
       <workItem from="1612831076664" duration="1701000" />
       <workItem from="1612893473869" duration="18145000" />
-      <workItem from="1612948754299" duration="10270000" />
+      <workItem from="1612948754299" duration="11011000" />
     </task>
     <servers />
   </component>
