@@ -2,7 +2,12 @@
   .cmp-teaser {
     position: relative;
   }
-  .cmp-teaser__image {}
+  .cmp-teaser__image {
+    & img {
+      height: 30em;
+      object-fit: cover;
+    }
+  }
   .cmp-teaser__content {
     position: absolute;
     top: 50%;
