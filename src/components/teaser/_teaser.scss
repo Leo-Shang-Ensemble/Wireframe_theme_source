@@ -1,9 +1,10 @@
-.cmp-teaser {}
+.cmp-teaser {
+  margin: 0.3em;
+}
 .cmp-teaser__image {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  padding: 0;
+  img {
+    display: block;
+  }
 }
 .cmp-teaser__content {
   padding: 1.5em;
@@ -28,9 +29,7 @@
 .cmp-teaser__action-link {
   font-weight: 300;
   text-decoration: none;
-  background-color: $accent;
   border-radius: 1.56em;
   padding: 0.5em 1em;
   margin-right: 0.8em;
-  color: #FFFFFF;
 }

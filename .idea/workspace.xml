@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="" />
+    <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_dark.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_light.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_light.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/text/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/text/_text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/title/_title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/site/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/_variables.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1oDpa62aakGL9kEU7RsqI7iWS3M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -40,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612831075304</updated>
       <workItem from="1612831076664" duration="1701000" />
-      <workItem from="1612893473869" duration="12327000" />
+      <workItem from="1612893473869" duration="16995000" />
     </task>
     <servers />
   </component>
@@ -48,10 +64,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612902197651">
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612916542397">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612902197651" />
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612916542397" />
     <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1612831326589">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
@@ -72,9 +88,9 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="573" y="364" key="com.intellij.ide.util.TipDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612893693408" />
-    <state x="554" y="288" width="683" height="486" key="find.popup" timestamp="1612905186866">
+    <state x="554" y="288" width="683" height="486" key="find.popup" timestamp="1612918574369">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="554" y="288" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612905186866" />
+    <state x="554" y="288" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612918574369" />
   </component>
 </project>

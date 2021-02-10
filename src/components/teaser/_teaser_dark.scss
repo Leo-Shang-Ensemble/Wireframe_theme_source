@@ -5,19 +5,32 @@
     background-color: $grey3;
   }
   .cmp-teaser__pretitle {
-    color: #FFFFFF;
+    color: $dark-theme-text;
   }
   .cmp-teaser__title {
-    color: #FFFFFF;
+    color: $dark-theme-text;
   }
   .cmp-teaser__title-link {
-    color: #FFFFFF;
+    color: $dark-theme-text;
   }
   .cmp-teaser__description {
-    color: #FFFFFF;
+    color: $dark-theme-text;
   }
   .cmp-teaser__action-container {}
   .cmp-teaser__action-link {
-    color: #FFFFFF;
+    color: $dark-theme-text;
+  }
+
+  .cmp-teaser__action-link:first-child {
+    background-color: $accent;
+    border-color: $accent;
+    border-style: solid;
+    border-width: 0.125em;
+  }
+  .cmp-teaser__action-link:not(:first-child) {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: $color-background;
+    border-style: solid;
+    border-width: 0.125em;
   }
 }

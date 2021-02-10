@@ -1,8 +1,6 @@
 .textOnTop {
   .cmp-teaser {
     position: relative;
-    //display: flex;
-    //justify-content: center;
   }
   .cmp-teaser__image {}
   .cmp-teaser__content {
@@ -37,6 +35,20 @@
     display: flex;
     justify-content: center;
   }
+
   .cmp-teaser__action-link {
+    color: $dark-theme-text;
+  }
+  .cmp-teaser__action-link:first-child {
+    background-color: $accent;
+    border-color: $accent;
+    border-style: solid;
+    border-width: 0.125em;
+  }
+  .cmp-teaser__action-link:not(:first-child) {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: $color-background;
+    border-style: solid;
+    border-width: 0.125em;
   }
 }
