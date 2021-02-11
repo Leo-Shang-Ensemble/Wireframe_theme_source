@@ -6,7 +6,7 @@
       background-color: $grey4;
       border-color: $grey4;
       & .cmp-button__text {
-        color: $dark-theme-text;
+        color: $text-on-background;
       }
     }
     &:focus {
@@ -15,7 +15,7 @@
       border-color: $color-background;
       box-shadow: 0 0 0 0.125em $accent-focus;
       & .cmp-button__text {
-        color: $dark-theme-text;
+        color: $text-on-background;
       }
     }
     &:disabled {
