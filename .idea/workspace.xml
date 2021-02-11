@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/title/_title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-text/_form-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-text/_form-text.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <updated>1612831075304</updated>
       <workItem from="1612831076664" duration="1701000" />
       <workItem from="1612893473869" duration="18145000" />
-      <workItem from="1612948754299" duration="11011000" />
+      <workItem from="1612948754299" duration="17985000" />
     </task>
     <servers />
   </component>
@@ -60,10 +59,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612988689122">
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613004829404">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612988689122" />
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613004829404" />
     <state width="1750" height="276" key="GridCell.Tab.0.bottom" timestamp="1612831326589">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
@@ -84,9 +83,9 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="573" y="364" key="com.intellij.ide.util.TipDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612893693408" />
-    <state x="554" y="288" width="683" height="486" key="find.popup" timestamp="1612950044202">
+    <state x="554" y="288" width="683" height="486" key="find.popup" timestamp="1613008454676">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="554" y="288" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612950044202" />
+    <state x="554" y="288" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613008454676" />
   </component>
 </project>
