@@ -1,9 +1,10 @@
 .cmp-progressbar {
   display: block;
-  background-color: $grey1;
+  background-color: $progress-bar;
   overflow: hidden;
   text-align: center;
   border-radius: 1.31em;
+  margin: 0.5em;
 }
 .cmp-progressbar__label--completed {
   display: none;
