@@ -16,5 +16,14 @@
   .cmp-breadcrumb__item-link {
     text-decoration: none;
     color: $grey3;
+    &:hover {
+      color: $text;
+    }
+    &:focus {
+      border-style: solid;
+      border-color: $accent-focus;
+      border-radius: 0.25em;
+      border-width: 0.125em;
+    }
   }
 }
