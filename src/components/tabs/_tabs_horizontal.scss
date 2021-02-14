@@ -1,0 +1,23 @@
+.horizontal {
+  .cmp-tabs {}
+
+  .cmp-tabs__tablist {
+    border-bottom-width: 0.125em;
+    border-bottom-color: $grey1;
+    border-bottom-style: solid;
+  }
+  .cmp-tabs__tab {}
+  .cmp-tabs__tab--active {
+    border-bottom-color: $grey4;
+    border-bottom-width: 0.125em;
+    border-bottom-style: solid;
+    &:focus {
+      border-bottom-color: $grey4;
+      border-bottom-width: 0.125em;
+      border-bottom-style: solid;
+    }
+  }
+
+  .cmp-tabs__tabpanel {}
+  .cmp-tabs__tabpanel--active {}
+}

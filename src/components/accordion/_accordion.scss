@@ -1,13 +1,23 @@
 .cmp-accordion {
   margin: 0.5em;
 }
-
 .cmp-accordion__item {}
+.cmp-accordion__header {}
 
-.cmp-accordion__header {
+.cmp-accordion__button {
+  outline: none;
+  border: none;
   border-bottom-width: 0.125em;
   border-bottom-style: solid;
   border-bottom-color: $grey1;
+  padding: 0.625em 1em;
+  background-color: $color-background;
+  .cmp-accordion__icon {
+    &:after {
+      content: "\02C5";
+      color: $grey2;
+    }
+  }
   &:hover {
     .cmp-accordion__title {
       color: $text;
@@ -27,39 +37,28 @@
       color: $text;
     }
   }
-  &:active {
-    // TODO: remove border when selected
-    border-width: 0;
-    outline-width: 0;
-    box-shadow: 0 0 0 0;
-    .cmp-accordion__title {
-      color: $text;
-    }
-    .cmp-accordion__icon {
-      &:after {
-        color: $grey3;
-      }
-    }
-  }
-}
-
-.cmp-accordion__button {
-  padding: 0.625em 1em;
-  background-color: $color-background;
-  border: none;
-  .cmp-accordion__icon {
-    &:after {
-      content: "\02C5";
-      color: $grey2;
-    }
-  }
 }
 
 .cmp-accordion__button--expanded {
+  outline: none;
+  border: none;
+  border-bottom-width: 0.125em;
+  border-bottom-style: solid;
+  border-bottom-color: $grey1;
   .cmp-accordion__icon {
     &:after {
       content: "\02C4";
       color: $grey3;
+    }
+  }
+  &:focus {
+    border: none;
+    border-bottom-width: 0.125em;
+    border-bottom-style: solid;
+    border-bottom-color: $grey1;
+    border-radius: 0;
+    .cmp-accordion__title {
+      color: $text;
     }
   }
 }
