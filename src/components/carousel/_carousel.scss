@@ -37,8 +37,12 @@
     }
   }
 }
-.cmp-carousel__action--pause {}
-.cmp-carousel__action--play {}
+.cmp-carousel__action--pause {
+  display: none;
+}
+.cmp-carousel__action--play {
+  display: none;
+}
 .cmp-carousel__action-icon {
   //color: rgba(0, 0, 0, 0);
   font-weight: 500;

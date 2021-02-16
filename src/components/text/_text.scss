@@ -1,6 +1,42 @@
 .cmp-text {
   margin: 0;
+  font-size: 1em;
+  font-weight: normal;
+  color: $text;
+  & b {
+    font-weight: bold;
+  }
+  & a {
+    color: $accent;
+    text-decoration: none;
+    &:hover {
+      color: $accent-hover;
+      text-decoration: underline;
+      text-decoration-width: 0.125em;
+      text-decoration-color: $accent-hover;
+      text-decoration-style: solid;
+    }
+    &:focus {
+      padding: 0 0.125em;
+      text-decoration: underline;
+      text-decoration-width: 0.125em;
+      text-decoration-color: $accent;
+      text-decoration-style: solid;
+      border-width: 0.125rem;
+      border-color: $accent;
+      border-style: solid;
+      border-radius: 0.25em;
+      //border-spacing: 0.25em;
+      outline: none;
+    }
+  }
+  & blockquote {
+    font-style: italic;
+    font-size: 28px;
+    margin-inline: 0;
+  }
+  & ul li::marker {
+    content: "-  ";
+  }
 }
-.cmp-text__paragraph {
-  margin: 0;
-}
+.cmp-text__paragraph {}
