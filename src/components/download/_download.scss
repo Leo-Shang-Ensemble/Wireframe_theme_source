@@ -69,8 +69,14 @@
 .cmp-download__action-text {
   color: $text-on-background;
   &:before {
-    content: "\2193";
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    content: '';
+    mask: url("/content/dam/wireframe_demo/arrow-down.svg");
+    mask-size: cover;
+    background-color: $text-on-background;
     margin-right: 0.625em;
-    color: $text-on-background;
+    vertical-align: -25%;
   }
 }

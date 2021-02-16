@@ -4,9 +4,15 @@
   .cmp-breadcrumb__item {
     :not(:last-child) {
       :after {
-        content: "\003E";
-        color: $grey2;
+        width: 24px;
+        height: 24px;
+        display: inline-block;
+        content: '';
+        mask: url("/content/dam/wireframe_demo/right.svg");
+        mask-size: cover;
+        background-color: $grey2;
         margin: 0 1em;
+        vertical-align: -25%;
       }
     }
   }

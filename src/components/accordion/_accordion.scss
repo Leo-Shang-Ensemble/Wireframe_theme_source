@@ -14,8 +14,15 @@
   background-color: $color-background;
   .cmp-accordion__icon {
     &:after {
-      content: "\02C5";
-      color: $grey2;
+      width: 24px;
+      height: 24px;
+      display: inline-block;
+      content: '';
+      mask: url("/content/dam/wireframe_demo/down.svg");
+      mask-size: cover;
+      background-color: $grey2;
+      margin: 0 1em;
+      vertical-align: -25%;
     }
   }
   &:hover {
@@ -24,7 +31,7 @@
     }
     .cmp-accordion__icon {
       &:after {
-        color: $grey3;
+        background-color: $grey3;
       }
     }
   }
@@ -47,8 +54,7 @@
   border-bottom-color: $grey1;
   .cmp-accordion__icon {
     &:after {
-      content: "\02C4";
-      color: $grey3;
+      mask: url("/content/dam/wireframe_demo/up.svg");
     }
   }
   &:focus {
