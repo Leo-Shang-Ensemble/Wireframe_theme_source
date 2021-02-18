@@ -1,6 +1,6 @@
 .standard {
   .cmp-breadcrumb {
-    margin: 1em 8.625em;;
+    margin: 1em 0;
   }
   .cmp-breadcrumb__list {
     padding-inline-start: 0;
@@ -31,10 +31,8 @@
       color: $text;
     }
     &:focus {
-      border-style: solid;
-      border-color: $accent-focus;
+      border: 0.125rem solid $accent-focus;
       border-radius: 0.25em;
-      border-width: 0.125em;
     }
   }
 }

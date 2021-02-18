@@ -7,9 +7,7 @@
 .cmp-accordion__button {
   outline: none;
   border: none;
-  border-bottom-width: 0.125em;
-  border-bottom-style: solid;
-  border-bottom-color: $grey1;
+  border-bottom: 0.125em solid $grey1;
   padding: 0.625em 1em;
   background-color: $color-background;
   .cmp-accordion__icon {
@@ -36,9 +34,7 @@
     }
   }
   &:focus {
-    border-style: solid;
-    border-width: 0.125em;
-    border-color: $accent-focus;
+    border: 0.125em solid $accent-focus;
     border-radius: 0.25em;
     .cmp-accordion__title {
       color: $text;
@@ -49,9 +45,7 @@
 .cmp-accordion__button--expanded {
   outline: none;
   border: none;
-  border-bottom-width: 0.125em;
-  border-bottom-style: solid;
-  border-bottom-color: $grey1;
+  border-bottom: 0.125em solid $grey1;
   .cmp-accordion__icon {
     &:after {
       mask: url("/content/dam/wireframe_demo/up.svg");
@@ -59,9 +53,7 @@
   }
   &:focus {
     border: none;
-    border-bottom-width: 0.125em;
-    border-bottom-style: solid;
-    border-bottom-color: $grey1;
+    border-bottom: 0.125rem solid $grey1;
     border-radius: 0;
     .cmp-accordion__title {
       color: $text;

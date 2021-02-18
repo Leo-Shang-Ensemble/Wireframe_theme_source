@@ -11,10 +11,8 @@
     color: $text;
   }
   //&:focus {
-  //  border-color: $accent-focus;
   //  border-radius: 0.25em;
-  //  border-style: solid;
-  //  border-width: 0.125em;
+  //  border: 0.125em solid $accent-focus;
   //}
 }
 .cmp-tabs__tab--active {

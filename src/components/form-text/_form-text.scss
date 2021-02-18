@@ -10,10 +10,8 @@
 .cmp-form-text__help-block {}
 .cmp-form-text__textarea {
   background-color: $grey1;
-  border-color: $grey1;
-  border-style: solid;
   border-radius: 0.25em;
-  border-width: 0.125em;
+  border: 0.125em solid $grey1;
   padding: 0.78em 1em;
   font-size: 1em;
   &:hover {

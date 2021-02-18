@@ -22,9 +22,7 @@
     outline: none;
     //box-shadow: 0 0 0 0.125rem $accent-focus;
     color: $accent-focus;
-    border-width: 0.125rem;
-    border-color: $accent;
-    border-style: solid;
+    border: 0.125rem solid $accent;
     border-radius: 0.25rem;
     padding: 0 0.125rem;
   }

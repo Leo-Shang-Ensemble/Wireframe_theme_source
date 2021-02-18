@@ -22,9 +22,7 @@
       text-decoration-width: 0.125em;
       text-decoration-color: $accent;
       text-decoration-style: solid;
-      border-width: 0.125rem;
-      border-color: $accent;
-      border-style: solid;
+      border: 0.125em solid $accent;
       border-radius: 0.25em;
       //border-spacing: 0.25em;
       outline: none;

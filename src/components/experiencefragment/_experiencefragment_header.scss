@@ -2,27 +2,33 @@
 //== XF Header style, used on page template
 
 .experiencefragment.header {
-    padding: 1.5625em 8.625em;
+    padding: 1.5625em 0;
     border-bottom: 0.125em solid $grey1;
 
     .cmp-image {
         width: fit-content;
         height: fit-content;
-        margin: 0 0.5em;
+        padding: 0.5em 0.5em;
     }
     .cmp-image__image {
-        width: 9.2em;
+        max-width: 9.2em;
     }
 
     //=================== Grid layout ===================
 
     .cmp-container {
-        display: grid;
-        grid-template-columns: 1fr 2fr 1fr 1fr;
+        //display: grid;
+        //grid-template-columns: 1fr 2fr 1fr 1fr;
+        display: flex;
     }
 
 
     //=================== Navigation ===================
+
+    .cmp-navigation {
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+    }
 
     .cmp-navigation__group {
         margin: 0;
@@ -43,9 +49,7 @@
         }
         &:focus {
             outline: none;
-            border-width: 0.125em;
-            border-color: $accent-focus;
-            border-style: solid;
+            border: 0.125em solid $accent-focus;
             border-radius: 0.25em;
             .cmp-navigation__item-link {
                 color: $text;
@@ -186,9 +190,7 @@
         color: $grey3;
         background-color: $grey1;
         border-radius: 0.25em;
-        border-style: solid;
-        border-color: $grey1;
-        border-width: 0.125em;
+        border: 0.125em solid $grey1;
         &::placeholder {
             color: $grey3;
         }

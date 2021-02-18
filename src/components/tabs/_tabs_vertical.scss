@@ -7,20 +7,14 @@
     width: fit-content;
     height: fit-content;
     display: block;
-    border-left-width: 0.125em;
-    border-left-color: $grey1;
-    border-left-style: solid;
+    border-left: 0.125em solid $grey1;
     order: 1;
   }
   .cmp-tabs__tab {}
   .cmp-tabs__tab--active {
-    border-left-color: $grey4;
-    border-left-width: 0.125em;
-    border-left-style: solid;
+    border-left: 0.125em solid $grey4;
     &:focus {
-      border-left-color: $grey4;
-      border-left-width: 0.125em;
-      border-left-style: solid;
+      border-left: 0.125em solid $grey4;
     }
   }
 
