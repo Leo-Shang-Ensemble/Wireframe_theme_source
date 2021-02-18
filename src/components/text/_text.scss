@@ -1,6 +1,7 @@
 .cmp-text {
   margin: 0;
   font-size: 1em;
+  font-family: "Source San Pro", sans-serif;
   font-weight: normal;
   color: $text;
   & b {
@@ -31,6 +32,7 @@
   & blockquote {
     font-style: italic;
     font-size: 28px;
+    font-family: "Source Serif Pro", serif;
     margin-inline: 0;
   }
   & ul li::marker {
