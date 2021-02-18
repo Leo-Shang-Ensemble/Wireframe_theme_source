@@ -94,8 +94,9 @@
             }
         }
         & .cmp-navigation__group .cmp-navigation__item {
-            margin: 0.56em 2em 0.56em 1em;
+            padding: 0.56em 2em 0.56em 1em;
             &:hover {
+                background-color: $grey1;
                 & a {
                     color: $text;
                 }
@@ -124,7 +125,6 @@
             vertical-align: -40%;
         }
         &:after {
-
             width: 24px;
             height: 24px;
             display: inline-block;
