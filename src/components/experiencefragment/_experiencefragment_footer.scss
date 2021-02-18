@@ -17,25 +17,31 @@
         margin: 0 1em;
     }
 
-    #company_info {
-        font-size: 0.625em;
-    }
-
     .cmp-image__image {
         max-width: 9.2em;
+        margin: 0 auto;
+        display: block;
     }
 
-    .text {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
+    .cmp-title {
+        text-align: center;
+        margin: 0 1em;
     }
 
     .cmp-text {
-        color: $grey3;
         text-align: center;
         & p {
-            margin-block: 0 0;
+            margin-block: 0;
+            & a {
+                color: $accent;
+                text-decoration: none;
+                :focus {
+                    color: $accent-focus;
+                }
+                :hover {
+                    color: $accent-hover;
+                }
+            }
         }
     }
 }
