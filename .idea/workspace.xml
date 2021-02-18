@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-SemiBoldItalic.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/accordion/_accordion.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/accordion/_accordion.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/button/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/download/_download.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/download/_download.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-text/_form-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-text/_form-text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image/_image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image/_image_caption.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image/_image_caption.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image/_image_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image/_image_standard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/progressbar/_progressbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/progressbar/_progressbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tabs/_tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tabs/_tabs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/text/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/text/_text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/title/_title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/title/_title_styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title_styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +60,7 @@
       <workItem from="1612831076664" duration="1701000" />
       <workItem from="1612893473869" duration="18145000" />
       <workItem from="1612948754299" duration="100434000" />
-      <workItem from="1613635341343" duration="2696000" />
+      <workItem from="1613635341343" duration="4110000" />
     </task>
     <servers />
   </component>
@@ -123,10 +81,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613004829404">
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613639873807">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613004829404" />
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613639873807" />
     <state x="100" y="123" width="1592" height="817" key="DiffContextDialog" timestamp="1613167247166">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>

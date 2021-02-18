@@ -87,6 +87,12 @@
             margin: 0 0 0 1em;
             vertical-align: -25%;
         }
+        &:hover {
+            &:after {
+                mask: url("/content/dam/wireframe_demo/up.svg");
+                background-color: $grey3;
+            }
+        }
         & .cmp-navigation__group .cmp-navigation__item {
             margin: 0.56em 2em 0.56em 1em;
             &:hover {
@@ -118,16 +124,27 @@
             vertical-align: -40%;
         }
         &:after {
+
             width: 24px;
             height: 24px;
             display: inline-block;
-            content: url("/content/dam/wireframe_demo/down.svg");
-            vertical-align: -40%;
+            content: '';
+            mask: url("/content/dam/wireframe_demo/down.svg");
+            mask-size: cover;
+            background-color: $grey2;
             //margin-left: 4.5em;
+            vertical-align: -40%;
         }
-        &:hover > .cmp-languagenavigation__group {
-            visibility: visible;
-            transition-delay: 0s;
+        &:hover {
+            &:after {
+                mask: url("/content/dam/wireframe_demo/up.svg");
+                background-color: $grey3;
+            }
+
+            > .cmp-languagenavigation__group {
+                visibility: visible;
+                transition-delay: 0s;
+            }
         }
     }
     .cmp-languagenavigation__group {
