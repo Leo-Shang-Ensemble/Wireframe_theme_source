@@ -2,51 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resources/images/denmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/checkmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/exclamation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/france.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/germany.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/ireland.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/italy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/portugal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/romania.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/russia.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/spain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/sweden.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/turkey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/united-kingdom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/united-states-of-america.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/images/up.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/accordion/_accordion.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/accordion/_accordion.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/button/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/download/_download.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/download/_download.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-text/_form-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-text/_form-text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image/_image_caption.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image/_image_caption.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/progressbar/_progressbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/progressbar/_progressbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tabs/_tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tabs/_tabs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/text/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/text/_text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/title/_title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/title/_title_styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title_styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-Black.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-BlackItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-ExtraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-ExtraLight.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-ExtraLightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-ExtraLightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-Italic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-Light.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-LightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-SemiBold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro/SourceSansPro-SemiBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSansPro/SourceSansPro-SemiBoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-Black.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-BlackItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-ExtraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-ExtraLight.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-ExtraLightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-ExtraLightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-Italic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-Light.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-LightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-SemiBold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro/SourceSerifPro-SemiBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/fonts/SourceSerifPro/SourceSerifPro-SemiBoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +80,7 @@
       <workItem from="1612831076664" duration="1701000" />
       <workItem from="1612893473869" duration="18145000" />
       <workItem from="1612948754299" duration="100434000" />
-      <workItem from="1613635341343" duration="11439000" />
+      <workItem from="1613635341343" duration="14534000" />
     </task>
     <servers />
   </component>
@@ -153,10 +129,10 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613635356149" />
-    <state x="1011" y="249" width="683" height="486" key="find.popup" timestamp="1613678868339">
+    <state x="1011" y="249" width="683" height="486" key="find.popup" timestamp="1613684045778">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="1011" y="249" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613678868339" />
+    <state x="1011" y="249" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613684045778" />
     <state x="554" y="288" width="683" height="486" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1613590677571" />
     <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1613092263225">
       <screen x="0" y="23" width="1792" height="1017" />
