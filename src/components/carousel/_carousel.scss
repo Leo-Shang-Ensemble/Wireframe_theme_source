@@ -25,7 +25,7 @@
   margin: 0.125em;
   position: relative;
   & .cmp-carousel__action-icon {
-    &::before {
+    &:before {
       position: absolute;
       top: 50%;
       left: 50%;
@@ -45,14 +45,14 @@
 .cmp-carousel__action--disabled {}
 .cmp-carousel__action--previous {
   & .cmp-carousel__action-icon {
-    &::before {
+    &:before {
       mask: url("/content/dam/wireframe_demo/left.svg");
     }
   }
 }
 .cmp-carousel__action--next {
   & .cmp-carousel__action-icon {
-    &::before {
+    &:before {
       mask: url("/content/dam/wireframe_demo/right.svg");
     }
   }

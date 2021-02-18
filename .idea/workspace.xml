@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/site/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/accordion/_accordion.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/accordion/_accordion.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/carousel/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/carousel/_carousel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/download/_download.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/download/_download.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/site/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -39,6 +42,7 @@
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="SvnConfiguration">
@@ -53,7 +57,7 @@
       <updated>1612831075304</updated>
       <workItem from="1612831076664" duration="1701000" />
       <workItem from="1612893473869" duration="18145000" />
-      <workItem from="1612948754299" duration="66824000" />
+      <workItem from="1612948754299" duration="93106000" />
     </task>
     <servers />
   </component>
@@ -100,10 +104,11 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="573" y="364" key="com.intellij.ide.util.TipDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1612893693408" />
-    <state x="554" y="288" width="683" height="486" key="find.popup" timestamp="1613513326098">
+    <state x="554" y="288" width="683" height="486" key="find.popup" timestamp="1613618433809">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="554" y="288" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613513326098" />
+    <state x="554" y="288" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613618433809" />
+    <state x="554" y="288" width="683" height="486" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1613590677571" />
     <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1613092263225">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>

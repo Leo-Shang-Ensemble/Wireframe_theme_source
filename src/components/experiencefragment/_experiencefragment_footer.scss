@@ -2,17 +2,40 @@
 //== XF Footer style, used on page template
 
 .experiencefragment.footer {
-    padding: .5em 1em;
+    padding: 1.5625em 0;
     border-top: 0.125em solid $grey1;
-    color: $grey3;
-    font-size: 0.625em;
 
-    .cmp-image__image {
-        width: 9.2em;
+    .separator {
+        display: none;
     }
 
-    .cmp-separator__horizontal-rule {
-        margin: 0;
-        border: 0;
+    .cmp-container {
+        display: flex;
+    }
+
+    .image, .text {
+        margin: 0 1em;
+    }
+
+    #company_info {
+        font-size: 0.625em;
+    }
+
+    .cmp-image__image {
+        max-width: 9.2em;
+    }
+
+    .text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .cmp-text {
+        color: $grey3;
+        text-align: center;
+        & p {
+            margin-block: 0 0;
+        }
     }
 }

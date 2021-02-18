@@ -1,6 +1,10 @@
 .standard {
-  .cmp-breadcrumb {}
-  .cmp-breadcrumb__list {}
+  .cmp-breadcrumb {
+    margin: 1em 8.625em;;
+  }
+  .cmp-breadcrumb__list {
+    padding-inline-start: 0;
+  }
   .cmp-breadcrumb__item {
     :not(:last-child) {
       :after {
@@ -13,6 +17,7 @@
         background-color: $grey2;
         margin: 0 1em;
         vertical-align: -25%;
+        pointer-events: none;
       }
     }
   }
