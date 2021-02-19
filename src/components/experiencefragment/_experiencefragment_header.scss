@@ -64,6 +64,7 @@
             top: 2.5em;
             width: max-content;
             border-radius: 0.25em;
+            overflow: hidden;
             background: $color-background;
             box-shadow: 0 0.25em 0.5em 0.2em $color-shadow;
         }
@@ -159,6 +160,7 @@
         top: 2.5em;
         width: max-content;
         border-radius: 0.25em;
+        overflow: hidden;
         background: $color-background;
         box-shadow: 0 0.25em 0.5em 0.2em $color-shadow;
     }
@@ -167,7 +169,6 @@
         &:not(.cmp-languagenavigation__item--active) {
             &:hover {
                 background-color: $grey1;
-                border-radius: inherit;
             }
         }
     }
