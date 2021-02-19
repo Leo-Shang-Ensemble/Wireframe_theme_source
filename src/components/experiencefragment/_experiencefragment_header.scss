@@ -4,7 +4,6 @@
 .experiencefragment.header {
     padding: 1.5625em 0;
     border-bottom: 0.125em solid $grey1;
-    //font-family: "Source San Pro", sans-serif;
 
     .cmp-image {
         width: fit-content;
@@ -18,8 +17,6 @@
     //=================== Grid layout ===================
 
     .cmp-container {
-        //display: grid;
-        //grid-template-columns: 1fr 2fr 1fr 1fr;
         display: flex;
     }
 
