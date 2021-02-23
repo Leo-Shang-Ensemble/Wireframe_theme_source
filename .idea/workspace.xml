@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,8 @@
       <workItem from="1613785560803" duration="3871000" />
       <workItem from="1613791453987" duration="654000" />
       <workItem from="1613896486833" duration="14559000" />
-      <workItem from="1614045182764" duration="3411000" />
+      <workItem from="1614045182764" duration="3590000" />
+      <workItem from="1614058666218" duration="4056000" />
     </task>
     <servers />
   </component>
@@ -92,9 +93,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613767543974">
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614060382298">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614060382298" />
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-367.-1417.3440.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1613767543974" />
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613639873807" />
     <state x="65" y="104" width="1592" height="817" key="DiffContextDialog" timestamp="1613780732503">
@@ -118,14 +120,15 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="875" height="276" key="GridCell.Tab.0.right/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613621610381" />
-    <state x="592" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1613635356149">
+    <state x="592" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1614058666012">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613635356149" />
-    <state x="554" y="288" width="688" height="486" key="find.popup" timestamp="1614039138920">
+    <state x="592" y="285" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1614058666012" />
+    <state x="554" y="288" width="688" height="486" key="find.popup" timestamp="1614062568838">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="554" y="288" width="688" height="486" key="find.popup/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614039138920" />
+    <state x="554" y="288" width="688" height="486" key="find.popup/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614062568838" />
     <state x="408" y="218" width="842" height="550" key="find.popup/-367.-1417.3440.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1613790250323" />
     <state x="1011" y="249" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613684045778" />
     <state x="554" y="288" width="688" height="486" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1613896878076" />
