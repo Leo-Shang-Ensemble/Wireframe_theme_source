@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/progressbar/_progressbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/progressbar/_progressbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/change_flag.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/change_flag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <workItem from="1613785560803" duration="3871000" />
       <workItem from="1613791453987" duration="654000" />
       <workItem from="1613896486833" duration="14559000" />
-      <workItem from="1614045182764" duration="2255000" />
+      <workItem from="1614045182764" duration="3411000" />
     </task>
     <servers />
   </component>
