@@ -2,36 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/site/change_flag.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/accordion/_accordion.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/accordion/_accordion.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/carousel/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/carousel/_carousel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/download/_download.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/download/_download.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/arrow-down.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/checkmark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/denmark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/down.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/exclamation.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/france.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/germany.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/ireland.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/italy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/left.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/portugal.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/right.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/romania.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/russia.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/spain.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/sweden.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/turkey.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/united-kingdom.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/united-states-of-america.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/images/up.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/form_dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/form_dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/site/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +76,7 @@
       <workItem from="1613781138922" duration="635000" />
       <workItem from="1613785560803" duration="3871000" />
       <workItem from="1613791453987" duration="654000" />
-      <workItem from="1613896486833" duration="10865000" />
+      <workItem from="1613896486833" duration="14559000" />
     </task>
     <servers />
   </component>
