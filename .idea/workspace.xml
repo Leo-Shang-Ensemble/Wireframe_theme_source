@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/_progressbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/progressbar/_progressbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/change_flag.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/change_flag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/form_dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/form_dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/change_flag.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/change_flag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-options/form_dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/form_dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/progressbar/_progressbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/progressbar/_progressbar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <workItem from="1614058666218" duration="4287000" />
       <workItem from="1614100028354" duration="1082000" />
       <workItem from="1614101504908" duration="106000" />
-      <workItem from="1614105860592" duration="1246000" />
+      <workItem from="1614105860592" duration="2959000" />
     </task>
     <servers />
   </component>
@@ -99,6 +98,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="496" y="197" key="#JavaScript" timestamp="1614119913461">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="496" y="197" key="#JavaScript/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614119913461" />
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614060382298">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
