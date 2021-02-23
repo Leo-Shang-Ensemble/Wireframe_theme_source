@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/site/change_flag.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/accordion/_accordion.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/accordion/_accordion.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" afterDir="false" />
@@ -9,6 +10,27 @@
       <change beforePath="$PROJECT_DIR$/src/components/download/_download.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/download/_download.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/arrow-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/checkmark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/denmark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/exclamation.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/france.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/germany.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/ireland.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/italy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/portugal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/romania.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/russia.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/spain.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/sweden.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/turkey.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/united-kingdom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/united-states-of-america.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/images/up.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/site/form_dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/form_dropdown.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,12 +69,15 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/form-options" />
       <recent name="$PROJECT_DIR$/src/resources/images" />
+      <recent name="$PROJECT_DIR$/src/components/form-options" />
+      <recent name="$PROJECT_DIR$/src/components/form" />
       <recent name="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro" />
       <recent name="$PROJECT_DIR$/src/resources/fonts" />
-      <recent name="$PROJECT_DIR$/src/resources/fonts/Source Serif Pro" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -71,7 +96,9 @@
       <workItem from="1613635341343" duration="35307000" />
       <workItem from="1613780659430" duration="73000" />
       <workItem from="1613781138922" duration="635000" />
-      <workItem from="1613785560803" duration="3575000" />
+      <workItem from="1613785560803" duration="3871000" />
+      <workItem from="1613791453987" duration="654000" />
+      <workItem from="1613896486833" duration="10865000" />
     </task>
     <servers />
   </component>
@@ -122,12 +149,13 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613635356149" />
-    <state x="408" y="218" width="842" height="550" key="find.popup" timestamp="1613789518467">
+    <state x="554" y="288" width="688" height="486" key="find.popup" timestamp="1614039138920">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="408" y="218" width="842" height="550" key="find.popup/-367.-1417.3440.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1613789518467" />
+    <state x="554" y="288" width="688" height="486" key="find.popup/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614039138920" />
+    <state x="408" y="218" width="842" height="550" key="find.popup/-367.-1417.3440.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1613790250323" />
     <state x="1011" y="249" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613684045778" />
-    <state x="554" y="288" width="683" height="486" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1613590677571" />
+    <state x="554" y="288" width="688" height="486" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1613896878076" />
     <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1613092263225">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
