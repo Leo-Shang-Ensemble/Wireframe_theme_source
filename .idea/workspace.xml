@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/site/_progressbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/progressbar/_progressbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/site/change_flag.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/change_flag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/site/form_dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/form_dropdown.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +44,15 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/form-options" />
+      <recent name="$PROJECT_DIR$/src/components/experiencefragment" />
+      <recent name="$PROJECT_DIR$/src/components/progressbar" />
+      <recent name="$PROJECT_DIR$/src/resources/images" />
+      <recent name="$PROJECT_DIR$/src/components/form" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/resources/images" />
-      <recent name="$PROJECT_DIR$/src/components/form-options" />
-      <recent name="$PROJECT_DIR$/src/components/form" />
-      <recent name="$PROJECT_DIR$/src/resources/fonts/Source Sans Pro" />
-      <recent name="$PROJECT_DIR$/src/resources/fonts" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -74,6 +77,8 @@
       <workItem from="1614045182764" duration="3590000" />
       <workItem from="1614058666218" duration="4287000" />
       <workItem from="1614100028354" duration="1082000" />
+      <workItem from="1614101504908" duration="106000" />
+      <workItem from="1614105860592" duration="1246000" />
     </task>
     <servers />
   </component>
@@ -121,10 +126,10 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="875" height="276" key="GridCell.Tab.0.right/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613621610381" />
-    <state x="592" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1614100028981">
+    <state x="592" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1614101504546">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614100028981" />
+    <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614101504546" />
     <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613635356149" />
     <state x="592" y="285" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1614058666012" />
     <state x="554" y="288" width="688" height="486" key="find.popup" timestamp="1614062568838">
