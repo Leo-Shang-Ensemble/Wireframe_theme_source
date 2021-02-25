@@ -8,7 +8,7 @@
   }
   .cmp-breadcrumb__item {
     :not(:last-child) {
-      :after {
+      &:after {
         display: inline-block;
         width: 24px;
         height: 24px;
