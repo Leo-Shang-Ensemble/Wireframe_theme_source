@@ -13,8 +13,9 @@
   background-color: $grey1;
   border-radius: 0.25em;
   border: 0.125em solid $grey1;
-  padding: 0.78em 1em;
+  padding: 0.5625em 1em 0.6875em 1em;
   font-size: 1em;
+  height: 10em;
   &:hover {
     background-color: $color-background;
   }
@@ -31,8 +32,9 @@
   border-style: solid;
   border-radius: 0.25em;
   border-width: 0.125em;
-  padding: 0.78em 1em;
+  padding: 0.5625em 1em 0.6875em 1em;
   font-size: 1em;
+  height: 1.25em;
   &:hover {
     background-color: $color-background;
   }

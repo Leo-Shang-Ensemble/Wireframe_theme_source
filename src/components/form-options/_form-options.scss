@@ -32,12 +32,13 @@
 }
 
 .select-selected {
-  padding: 0.78em 1em;
+  padding: 0.5625em 1em 0.6875em 1em;
   color: $grey4;
   background-color: $color-background;
   border: 0.0625em solid $grey2;
   border-radius: 0.25em;
   cursor: pointer;
+  height: 1.25em;
   &:after {
     display: inline-block;
     float: right;
@@ -94,7 +95,8 @@
 }
 
 .select-items div {
-  padding: 0.78em 1em;
+  padding: 0.5625em 1em 0.6875em 1em;
+  height: 1.25em;
   cursor: pointer;
   &:not(.same-as-selected) {
     &:hover {
