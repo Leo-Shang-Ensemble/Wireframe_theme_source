@@ -61,9 +61,9 @@
 }
 
 .select-arrow-active {
-  border-width: 0.125em;
+  border: 0.125em solid $accent-hover;
   margin: -0.0625em;
-  :after {
+  &:after {
     display: inline-block;
     float: right;
     width: 24px;
