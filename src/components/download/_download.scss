@@ -11,13 +11,17 @@
 .cmp-download__title-link {
   color: $text;
   font-weight: normal;
-  font-size: 1.125em;
+  font-size: 1.125rem;
   text-decoration: none;
 }
 .cmp-download__description {
   color: $text;
   font-weight: lighter;
   font-size: 1em;
+  & p {
+    margin-block: 0;
+    margin-top: 10px;
+  }
 }
 .cmp-download__properties {
   display: flex;
@@ -26,9 +30,6 @@
   font-size: 0.625em;
   & div {
     float: left;
-    & dd {
-      margin: 0.625em 1em 0.625em 0;
-    }
   }
 }
 .cmp-download__property {
@@ -37,6 +38,7 @@
   display: none;
 }
 .cmp-download__property-content {
+  margin: 0 0.625rem 0 0;
 }
 .cmp-download__property--filename {
   display: none;
@@ -49,7 +51,7 @@
   text-transform: uppercase;
 }
 .cmp-download__action {
-  padding: 0.5em 1em;
+  padding: 0.5rem 1rem;
   text-decoration: none;
   background-color: $accent;
   border-radius: 1.56em;
