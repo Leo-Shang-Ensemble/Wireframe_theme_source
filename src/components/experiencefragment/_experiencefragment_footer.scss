@@ -3,7 +3,7 @@
 
 .experiencefragment.footer {
     margin-top: 5em;
-    padding: 1.5625em 0;
+    padding: 1.625em 0 1.5625em 0;
     border-top: 0.125em solid $grey1;
 
     & div {
@@ -22,6 +22,10 @@
         margin: 0 1em;
     }
 
+    & .cmp-image {
+        margin: 0;
+    }
+
     .cmp-image__image {
         width: 9.2em;
         margin: 0 auto;
@@ -38,6 +42,7 @@
 
     .cmp-text {
         text-align: center;
+        margin: 0;
         & p {
             margin-block: 0;
             & a {

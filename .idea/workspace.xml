@@ -3,9 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/change_flag.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/change_flag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-options/form_dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/form_dropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/progressbar/_progressbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/progressbar/_progressbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/container/_container_content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/container/_container_content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-text/_form-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-text/_form-text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/image/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/image/_image_caption.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image/_image_caption.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/separator/_separator.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/separator/_separator.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/separator/_separator_small.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/separator/_separator_small.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/separator/_separator_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/separator/_separator_standard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/text/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/text/_text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/title/_title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/site/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/_base.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +60,15 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/components/form-options" />
       <recent name="$PROJECT_DIR$/src/components/experiencefragment" />
       <recent name="$PROJECT_DIR$/src/components/progressbar" />
       <recent name="$PROJECT_DIR$/src/resources/images" />
-      <recent name="$PROJECT_DIR$/src/components/form" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -78,6 +95,7 @@
       <workItem from="1614100028354" duration="1082000" />
       <workItem from="1614101504908" duration="106000" />
       <workItem from="1614105860592" duration="2959000" />
+      <workItem from="1614195150355" duration="18313000" />
     </task>
     <servers />
   </component>
@@ -102,10 +120,10 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="496" y="197" key="#JavaScript/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614119913461" />
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614060382298">
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614214452273">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614060382298" />
+    <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614214452273" />
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-367.-1417.3440.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1613767543974" />
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613639873807" />
     <state x="65" y="104" width="1592" height="817" key="DiffContextDialog" timestamp="1613780732503">
@@ -113,35 +131,39 @@
     </state>
     <state x="65" y="104" width="1592" height="817" key="DiffContextDialog/-367.-1417.3440.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1613780732503" />
     <state x="100" y="123" width="1592" height="817" key="DiffContextDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613167247166" />
-    <state width="875" height="276" key="GridCell.Tab.0.bottom" timestamp="1613621610381">
+    <state width="875" height="276" key="GridCell.Tab.0.bottom" timestamp="1614210699526">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
+    <state width="875" height="276" key="GridCell.Tab.0.bottom/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614210699526" />
     <state width="875" height="276" key="GridCell.Tab.0.bottom/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613621610381" />
-    <state width="875" height="276" key="GridCell.Tab.0.center" timestamp="1613621610381">
+    <state width="875" height="276" key="GridCell.Tab.0.center" timestamp="1614210699525">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
+    <state width="875" height="276" key="GridCell.Tab.0.center/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614210699525" />
     <state width="875" height="276" key="GridCell.Tab.0.center/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613621610381" />
-    <state width="875" height="276" key="GridCell.Tab.0.left" timestamp="1613621610380">
+    <state width="875" height="276" key="GridCell.Tab.0.left" timestamp="1614210699525">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
+    <state width="875" height="276" key="GridCell.Tab.0.left/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614210699525" />
     <state width="875" height="276" key="GridCell.Tab.0.left/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613621610380" />
-    <state width="875" height="276" key="GridCell.Tab.0.right" timestamp="1613621610381">
+    <state width="875" height="276" key="GridCell.Tab.0.right" timestamp="1614210699526">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
+    <state width="875" height="276" key="GridCell.Tab.0.right/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614210699526" />
     <state width="875" height="276" key="GridCell.Tab.0.right/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613621610381" />
-    <state x="592" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1614101504546">
+    <state x="592" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1614195152247">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614101504546" />
+    <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614195152247" />
     <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613635356149" />
     <state x="592" y="285" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1614058666012" />
-    <state x="554" y="288" width="688" height="486" key="find.popup" timestamp="1614062568838">
+    <state x="554" y="288" width="688" height="486" key="find.popup" timestamp="1614213411453">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="554" y="288" width="688" height="486" key="find.popup/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614062568838" />
+    <state x="554" y="288" width="688" height="486" key="find.popup/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614213411453" />
     <state x="408" y="218" width="842" height="550" key="find.popup/-367.-1417.3440.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1613790250323" />
     <state x="1011" y="249" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613684045778" />
-    <state x="554" y="288" width="688" height="486" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1613896878076" />
+    <state x="554" y="288" width="688" height="486" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1614205999404" />
     <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1613092263225">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
