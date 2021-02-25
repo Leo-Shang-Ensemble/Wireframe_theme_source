@@ -12,13 +12,13 @@
   &:hover {
     text-decoration: underline;
     text-decoration-color: $accent-hover;
-    text-decoration-width: 0.125rem;
+    text-decoration-thickness: 0.125rem;
     color: $accent-hover;
   }
   &:focus {
     text-decoration: underline;
     text-decoration-color: $accent-focus;
-    text-decoration-width: 0.125rem;
+    text-decoration-thickness: 0.125rem;
     outline: none;
     color: $accent-focus;
     border: 0.125rem solid $accent;
