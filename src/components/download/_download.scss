@@ -20,7 +20,7 @@
   font-size: 1em;
   & p {
     margin-block: 0;
-    margin-top: 10px;
+    margin-top: 0.625rem;
   }
 }
 .cmp-download__properties {
@@ -28,6 +28,7 @@
   color: $grey3;
   font-weight: normal;
   font-size: 0.625em;
+  margin-top: 0.625rem;
   & div {
     float: left;
   }
@@ -38,7 +39,7 @@
   display: none;
 }
 .cmp-download__property-content {
-  margin: 0 0.625rem 0 0;
+  margin: 0 0.625rem 1.0625rem 0;
 }
 .cmp-download__property--filename {
   display: none;
