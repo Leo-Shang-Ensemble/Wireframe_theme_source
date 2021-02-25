@@ -3,26 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/container/_container_content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/container/_container_content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-button/_form-button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-text/_form-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-text/_form-text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image/_image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image/_image_caption.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image/_image_caption.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/separator/_separator.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/separator/_separator.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/separator/_separator_small.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/separator/_separator_small.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/separator/_separator_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/separator/_separator_standard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/text/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/text/_text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/title/_title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/_base.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +76,7 @@
       <workItem from="1614100028354" duration="1082000" />
       <workItem from="1614101504908" duration="106000" />
       <workItem from="1614105860592" duration="2959000" />
-      <workItem from="1614195150355" duration="18313000" />
+      <workItem from="1614195150355" duration="19265000" />
     </task>
     <servers />
   </component>
