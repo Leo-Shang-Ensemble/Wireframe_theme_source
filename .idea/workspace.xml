@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/download/_download.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/download/_download.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <workItem from="1614100028354" duration="1082000" />
       <workItem from="1614101504908" duration="106000" />
       <workItem from="1614105860592" duration="2959000" />
-      <workItem from="1614195150355" duration="24913000" />
+      <workItem from="1614195150355" duration="28711000" />
     </task>
     <servers />
   </component>
@@ -138,10 +138,10 @@
     <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614195152247" />
     <state x="592" y="285" key="com.intellij.ide.util.TipDialog/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613635356149" />
     <state x="592" y="285" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1614058666012" />
-    <state x="554" y="288" width="688" height="486" key="find.popup" timestamp="1614227466648">
+    <state x="554" y="288" width="688" height="486" key="find.popup" timestamp="1614235814502">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="554" y="288" width="688" height="486" key="find.popup/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614227466648" />
+    <state x="554" y="288" width="688" height="486" key="find.popup/-367.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1614235814502" />
     <state x="408" y="218" width="842" height="550" key="find.popup/-367.-1417.3440.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1613790250323" />
     <state x="1011" y="249" width="683" height="486" key="find.popup/-881.-1057.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1613684045778" />
     <state x="554" y="288" width="688" height="486" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1614205999404" />
