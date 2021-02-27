@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_mixin.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/breadcrumb/_breadcrumb_standard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experiencefragment/_experiencefragment_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form-options/_form-options.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/socialmediasharing/_social_media_sharing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/socialmediasharing/_social_media_sharing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_dark.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_light.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/text/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/text/_text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/title/_title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/title/_title_styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/title/_title_styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/site/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +83,8 @@
       <workItem from="1614100028354" duration="1082000" />
       <workItem from="1614101504908" duration="106000" />
       <workItem from="1614105860592" duration="2959000" />
-      <workItem from="1614195150355" duration="42230000" />
+      <workItem from="1614195150355" duration="49258000" />
+      <workItem from="1614384230893" duration="8511000" />
     </task>
     <servers />
   </component>

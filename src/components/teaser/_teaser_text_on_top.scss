@@ -1,3 +1,7 @@
+@import "teaser_mixin";
+@include lightMixin();
+//@include defaultTeaser();
+
 .textOnTop {
   .cmp-teaser {
     position: relative;
