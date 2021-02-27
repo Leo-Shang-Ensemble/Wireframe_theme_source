@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_mixin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_dark.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_light.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_bottom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_left.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_at_right.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaser/_teaser_text_on_top.scss" afterDir="false" />
-    </list>
+    <list default="true" id="e2109b97-2672-4852-b609-46e6f0979e7f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +74,7 @@
       <workItem from="1614101504908" duration="106000" />
       <workItem from="1614105860592" duration="2959000" />
       <workItem from="1614195150355" duration="49258000" />
-      <workItem from="1614384230893" duration="8511000" />
+      <workItem from="1614384230893" duration="8654000" />
     </task>
     <servers />
   </component>
